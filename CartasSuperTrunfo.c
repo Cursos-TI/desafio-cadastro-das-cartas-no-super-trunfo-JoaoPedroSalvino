@@ -9,11 +9,11 @@ int main() {
     float area_km2;
     float PIB;
 
-    printf("Digite o Estado: \n");
-    scanf(" %s", estado);
-
-    printf("Digite o Código da Carta: \n");
+    printf("Digite o Carta: \n");
     scanf(" %s", carta);
+
+    printf("Digite o Código da Estado: \n");
+    scanf(" %s", estado);
 
     printf("Digite o Nome da Cidade: \n");
     scanf(" %s", cidade);
