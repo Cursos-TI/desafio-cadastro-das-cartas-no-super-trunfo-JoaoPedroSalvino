@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char estado[50];
     char carta[10];
+    char estado[50];
     char cidade[50];
     int pontos_turisticos;
     int populacao;
